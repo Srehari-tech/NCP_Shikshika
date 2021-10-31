@@ -14,7 +14,7 @@
 
 <head>
 <%@include file="/includes/head.jsp"%>
-<link rel="icon" href="assets/img/favicon.ico">
+<link rel="icon" href="team-images/favicon.ico">
 <style>
 
 .footer-copyright
