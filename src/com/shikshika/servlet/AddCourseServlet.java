@@ -56,7 +56,7 @@ public class AddCourseServlet extends HttpServlet
              }
              else
              {
-                System.out.print("wrong cre3dential");
+                System.out.print("Wrong Credentials!!!");
              }
          }
              
