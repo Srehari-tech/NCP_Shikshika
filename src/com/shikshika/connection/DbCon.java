@@ -12,7 +12,7 @@ public class DbCon
         if(connection == null)
         {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/shikshika_database","root","123456789");
+            connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/shikshika_database","root","DbmsCreator#12");
             System.out.print("connected");
         }
         return connection;
