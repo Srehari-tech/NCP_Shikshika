@@ -60,7 +60,7 @@ body {
               <div class="col-sm-4" >
                 <div class="card  text-center" >
 				    <div class="embed-responsive embed-responsive-16by9">
-    						 <img alt="Card image cap" class="card-img-top embed-responsive-item" src="me.jpg" />
+    						 <img alt="Card image cap" class="card-img-top embed-responsive-item" src="team-images/me.jpg" />
   					</div>
   					
 					<div class="card-body">
@@ -73,7 +73,7 @@ body {
 				<div class="col-sm-4" style="width:10rem;">
 				 <div class="card  text-center" >
 				    <div class="embed-responsive embed-responsive-16by9">
-    						 <img alt="Card image cap" class="card-img-top embed-responsive-item" src="adarsh.jpg" />
+    						 <img alt="Card image cap" class="card-img-top embed-responsive-item" src="team-images/adarsh.jpg" />
   					</div>
 					<div class="card-body">
 						<h5 class="card-title">Adarsh MS</</h5>
@@ -85,7 +85,7 @@ body {
 				  <div class="col-sm-4" style="width:10rem;">
 				 <div class="card  text-center"  >
 				    <div class="embed-responsive embed-responsive-16by9">
-    						 <img alt="Card image cap" class="card-img-top embed-responsive-item" src="niranjana.jpg" />
+    						 <img alt="Card image cap" class="card-img-top embed-responsive-item" src="team-images/niranjana.jpg" />
   					</div>
 					<div class="card-body">
 						<h5 class="card-title">Niranjana Ashok</</h5>
@@ -107,7 +107,7 @@ body {
 				 <div class="col-sm-4" style="margin-top: 40px;margin-left: 120px;">
 				<div class="card  text-center" >
 				    <div class="embed-responsive embed-responsive-16by9">
-    						 <img alt="Card image cap" class="card-img-top embed-responsive-item" src="howdy.jpg" />
+    						 <img alt="Card image cap" class="card-img-top embed-responsive-item" src="team-images/howdy.jpg" />
   					</div>
 					<div class="card-body">
 						<h5 class="card-title">Sre Hari</</h5>
@@ -124,7 +124,7 @@ body {
  <div class=footer-copyright>
         <nav class="navbar navbar-expand-lg navbar-light bg-light-grey">
         
-   <p style="margin:auto;padding-bottom:16px;">©2021 Copyright Shikshika</p>
+   <p style="margin:auto;padding-bottom:16px;">ï¿½2021 Copyright Shikshika</p>
   
    </nav>    
  </div>
