@@ -124,7 +124,7 @@ body {
  <div class=footer-copyright>
         <nav class="navbar navbar-expand-lg navbar-light bg-light-grey">
         
-   <p style="margin:auto;padding-bottom:16px;">2021 Copyright Shikshika</p>
+   <p style="margin:auto;padding-bottom:16px;">&copy;2021 Copyright Shikshika</p>
   
    </nav>    
  </div>
